@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1532924463457465416
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1532924463457465417}
+  - component: {fileID: 1532924463457465526}
+  m_Layer: 0
+  m_Name: GameAssests
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1532924463457465417
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1532924463457465416}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.4783273, y: 3.215651, z: -104.32608}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1532924463457465526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1532924463457465416}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1924e2156277d9644b0d1a8541ec3223, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RockFillSprite: {fileID: 21300000, guid: 56a4d99b244653e44b848ea591fe9199, type: 3}
+  pfRockBody: {fileID: 4916220098299904960, guid: 37ff7ce830ee5cb4fba58a6d1984393d,
+    type: 3}
+  pfGround: {fileID: 3287174692957718837, guid: b3c94b47aa19d50448316d2b1fa8f03c,
+    type: 3}
+  pfCloud_1: {fileID: 8946065744690390284, guid: aeef0492a8bc8804cbfbf93c226582d5,
+    type: 3}
+  pfCloud_2: {fileID: 8946065744690390284, guid: b896404a9d4621a41820668a25953aff,
+    type: 3}
+  pfCloud_3: {fileID: 8946065744690390284, guid: fbeea525d3b467a4fa48d1c53e4f7cf4,
+    type: 3}
+  pfCloud_4: {fileID: 8946065744690390284, guid: 4be612f226779644093e55eb321f0a9b,
+    type: 3}
+  pfCloud_5: {fileID: 8946065744690390284, guid: 6b5e89d4efc89b9488a77402f72b38ff,
+    type: 3}
+  pfCloud_6: {fileID: 8946065744690390284, guid: b656e8d72776f2e4b86240f302351c1b,
+    type: 3}
+  pfCloud_7: {fileID: 8946065744690390284, guid: 31624ac1428bfc34ca7ffe45360b2a57,
+    type: 3}
+  pfCloud_8: {fileID: 0}
+  soundAudioClipArray:
+  - sound: 0
+    audioClip: {fileID: 8300000, guid: 51109d0bd7f35084199c84c6840cdced, type: 3}
+  - sound: 1
+    audioClip: {fileID: 0}
+  - sound: 2
+    audioClip: {fileID: 8300000, guid: bedceece9a3a0984d954c401cab5cf99, type: 3}
+  - sound: 3
+    audioClip: {fileID: 8300000, guid: a3b0bbb678f277b48b0db6e5ef0ed8f6, type: 3}
+  - sound: 4
+    audioClip: {fileID: 8300000, guid: c53c3cd5e519d7741a15bed2f1e9ef6b, type: 3}

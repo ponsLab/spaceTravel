@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 1924e2156277d9644b0d1a8541ec3223
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RockFillSprite: {fileID: 21300000, guid: 56a4d99b244653e44b848ea591fe9199, type: 3}
+  executionOrder: -1100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
